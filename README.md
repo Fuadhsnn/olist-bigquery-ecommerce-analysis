@@ -18,3 +18,29 @@ The goal is to transform raw e-commerce transaction data into actionable busines
 - Analyze the relationship between delivery performance and customer satisfaction.
 - Understand the distribution of payment methods and transaction value.
 - Provide data-driven business recommendations based on the analysis.
+
+## 3. Dataset
+
+The dataset used in this project is the Brazilian E-Commerce Public Dataset by Olist.
+
+The dataset contains information about orders, customers, order items, products, sellers, payments, reviews, and delivery dates.
+
+The data was analyzed using multiple related tables in Google BigQuery.
+
+Key tables used in the analysis include:
+
+- orders
+- customers
+- order_items
+- products
+- product_category_name_translation
+- sellers
+- order_reviews
+- order_payments
+
+## 4. Tools & Technologies
+
+- Google BigQuery
+- SQL
+- GitHub
+- Kaggle / Olist Brazilian E-Commerce Dataset
