@@ -126,3 +126,65 @@ Analyzed payment methods based on:
 - Total payment value
 - Average payment value- GitHub
 - Kaggle / Olist Brazilian E-Commerce Dataset
+
+## 6. Key Findings
+
+### 6.1 Overall Business Performance
+
+- 96,478 total orders were analyzed.
+- The business served 93,358 unique customers.
+- Total revenue reached approximately $13.22 million.
+- Average order value (AOV) was $137.04.
+
+### 6.2 Customer Retention Opportunity
+
+- 97% of customers were one-time customers.
+- Only 3% of customers made repeat purchases.
+- One-time customers had an average spend of $137.96.
+- Repeat customers had an average spend of $260.05.
+- Repeat customers had approximately 1.88× higher average spending than one-time customers.
+
+### 6.3 Top Product Categories
+
+The highest-revenue product categories were:
+
+1. Health & Beauty — $1.23M
+2. Watches & Gifts — $1.17M
+3. Bed Bath Table — $1.02M
+4. Sports & Leisure — $954.85K
+5. Computers & Accessories — $888.72K
+
+### 6.4 Seller Performance
+
+Seller performance varied significantly across order volume and revenue.
+
+For example:
+
+- One seller generated $226.99K from 1,124 orders.
+- Another seller generated $217.94K from only 348 orders.
+- This indicates that order volume alone does not fully represent seller revenue performance.
+
+### 6.5 Delivery Performance
+
+- 96,470 delivered orders were analyzed.
+- 7,826 orders were delivered late.
+- Overall late delivery rate was 8.11%.
+- Average delivery time was 12.5 days.
+- Several sellers had late delivery rates above 30%, indicating potential operational risks.
+
+### 6.6 Delivery and Customer Satisfaction
+
+Late deliveries were associated with substantially lower customer satisfaction:
+
+- Late delivery: average review score of 2.57/5.
+- On-time delivery: average review score of 4.29/5.
+- Negative review rate for late deliveries: 54.03%.
+- Negative review rate for on-time deliveries: 9.23%.
+
+The negative review rate for late deliveries was approximately 5.9× higher than for on-time deliveries.
+
+### 6.7 Payment Behavior
+
+- Credit card was the dominant payment method with 74,304 orders.
+- Credit card transactions represented approximately $12.10M in payment value.
+- Credit card had the highest average payment value at $162.24.
