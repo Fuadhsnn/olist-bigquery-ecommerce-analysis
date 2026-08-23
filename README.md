@@ -42,5 +42,87 @@ Key tables used in the analysis include:
 
 - Google BigQuery
 - SQL
-- GitHub
+
+## 5. Analysis
+
+The analysis was performed using SQL queries in Google BigQuery across multiple business dimensions.
+
+### 5.1 Overall Business Performance
+
+Analyzed:
+
+- Total orders
+- Total unique customers
+- Total revenue
+- Average order value (AOV)
+
+### 5.2 Sales Trend Analysis
+
+Analyzed monthly:
+
+- Revenue
+- Order volume
+
+The analysis was used to identify changes and trends in sales performance over time.
+
+### 5.3 Product Category Analysis
+
+Analyzed product categories based on:
+
+- Total orders
+- Total items sold
+- Total revenue
+
+The analysis was used to identify the highest-performing product categories.
+
+### 5.4 Customer Analysis
+
+Analyzed:
+
+- One-time vs repeat customers
+- Customer share
+- Total customer revenue
+- Average customer spending
+- Top customers by total spending
+
+### 5.5 Seller Performance Analysis
+
+Analyzed sellers based on:
+
+- Total orders
+- Total items
+- Total revenue
+- Average item price
+
+Top-performing sellers were identified based on revenue.
+
+### 5.6 Delivery Performance Analysis
+
+Analyzed:
+
+- Total delivered orders
+- Late orders
+- Late delivery rate
+- Average delivery time
+- Seller-level delivery performance
+
+Sellers with relatively high late-delivery rates were identified as potential operational risks.
+
+### 5.7 Delivery and Customer Satisfaction
+
+Compared:
+
+- On-time vs late deliveries
+- Average review score
+- Negative review rate
+
+This analysis was used to evaluate the relationship between delivery performance and customer satisfaction.
+
+### 5.8 Payment Analysis
+
+Analyzed payment methods based on:
+
+- Total orders
+- Total payment value
+- Average payment value- GitHub
 - Kaggle / Olist Brazilian E-Commerce Dataset
