@@ -188,3 +188,64 @@ The negative review rate for late deliveries was approximately 5.9× higher than
 - Credit card was the dominant payment method with 74,304 orders.
 - Credit card transactions represented approximately $12.10M in payment value.
 - Credit card had the highest average payment value at $162.24.
+
+## 7. Business Recommendations
+
+### 7.1 Improve Customer Retention
+
+With 97% of customers making only one purchase, the business should prioritize strategies that encourage second purchases.
+
+Potential actions include:
+
+- Post-purchase campaigns
+- Personalized promotions
+- Second-purchase incentives
+- Customer loyalty programs
+- Targeted remarketing campaigns
+
+The goal is to increase the conversion of one-time customers into repeat customers.
+
+### 7.2 Focus on High-Value Customers
+
+Repeat customers had an average spend of $260.05 compared with $137.96 for one-time customers.
+
+The business could develop customer segmentation and loyalty strategies to retain high-value customers and increase customer lifetime value.
+
+### 7.3 Monitor High-Risk Sellers
+
+Sellers with consistently high late-delivery rates should receive additional operational monitoring.
+
+Seller performance should be evaluated using both:
+
+- Order volume
+- Late delivery rate
+
+This helps avoid prioritizing sellers based only on percentage rates from very small order volumes.
+
+### 7.4 Improve Delivery Reliability
+
+Late deliveries were strongly associated with lower customer satisfaction.
+
+The business should investigate:
+
+- Seller fulfillment performance
+- Logistics performance
+- Delivery lead times
+- Accuracy of estimated delivery dates
+
+Reducing delivery delays may help improve the overall customer experience.
+
+### 7.5 Prioritize High-Revenue Product Categories
+
+High-performing categories such as Health & Beauty, Watches & Gifts, Bed Bath Table, Sports & Leisure, and Computers & Accessories can be prioritized for:
+
+- Inventory planning
+- Promotional campaigns
+- Cross-selling opportunities
+- Merchandising strategies
+
+### 7.6 Monitor Customer Satisfaction as an Operational KPI
+
+Because late deliveries were associated with significantly higher negative review rates, customer review metrics should be monitored alongside operational KPIs.
+
+Combining delivery performance with customer satisfaction metrics can help identify operational issues that have a greater impact on customers.
