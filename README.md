@@ -42,6 +42,8 @@ Key tables used in the analysis include:
 
 - Google BigQuery
 - SQL
+- GitHub
+- Kaggle / Olist Brazilian E-Commerce Dataset
 
 ## 5. Analysis
 
